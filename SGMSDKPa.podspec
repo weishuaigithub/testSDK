@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   
   # 指向 GitHub Release 的 ZIP 文件
   s.source       = {
-    :http => "https://github.com/weishuaigithub/testSDK/releases/download/v#{s.version}/SGMSDKPa.framework.zip",
+    :http => "https://github.com/weishuaigithub/testSDK/releases/download/v1.0.0/SGMSDKPa.framework.zip",
     :type => "zip"
   }
   
